@@ -2,12 +2,6 @@
 
 # [Live Demo](https://spanuc.github.io/Shopping-Website/)
 
-Fully created from scratch.
-
-![image](https://user-images.githubusercontent.com/45234897/194413357-01cda9ff-6911-459a-9095-b3e85952c004.jpg)
-
-![image](https://user-images.githubusercontent.com/45234897/194413376-897b64c1-4328-4289-885b-94d09087c052.png)
-
 ## Features
 
 - ### Beautiful UI
